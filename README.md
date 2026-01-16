@@ -1,6 +1,6 @@
 # web-design-final
+2025 December
 My final project for a Basic Web Design class taken at Plattsburgh State.
-December 2025
 
 Programs and websites used:
 - Notepad++ (HTML and CSS)

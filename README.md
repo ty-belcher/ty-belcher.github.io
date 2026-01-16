@@ -1,4 +1,4 @@
-# web-design-final
+# ty-belcher.github.io
 My final project for a Basic Web Design class taken at Plattsburgh State, completed in December 2025.
 
 (reserve spot for link here)
